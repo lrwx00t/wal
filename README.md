@@ -1,4 +1,4 @@
-# wal
+# Write-Ahead Log (WAL)
 WAL "write-ahead log" implementation in Python
 
 Writing the logs in a binary file with contents of dictionary object of the running operations.
